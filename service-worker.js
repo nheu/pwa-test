@@ -17,6 +17,7 @@ var dataCacheName = 'weatherData-v1';
 
 //var filesToCache = [];
 var filesToCache = [
+  '/',
   '/pwa-test/',
   '/pwa-test/index.html',
   '/pwa-test/scripts/app.js',
